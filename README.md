@@ -14,7 +14,7 @@ Mobile: React Native (iOS & Android)
 
 Some of the systems I've built are live in production. Two case studies are pinned below.
 
-LinkedIn · agusgarnero3@gmail.com
+[LinkedIn](https://www.linkedin.com/in/agusgarnero/) · agusgarnero3@gmail.com
 
 
 
